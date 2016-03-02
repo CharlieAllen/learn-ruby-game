@@ -1,7 +1,7 @@
 require 'sinatra'
 require './lib/gothonweb/map.rb'
 
-set :port, 4567
+#set :port, 4567
 set :static, true
 set :public_folder, "static"
 set :views, "views"
